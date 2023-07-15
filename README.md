@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/8zFYXk2w/eo.jpg" align="left" style="max-width: 150px" />  
+<img src="https://i.postimg.cc/8zFYXk2w/eo.jpg" align="left" style="max-width: 150px margin-right:25px" />  
   
 
 ### <div align="center">I'm Vlada, a Frontend freelance developer 👨‍💻 working remotely since 2022 🚀 Learning every day 📕</div>  
