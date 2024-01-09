@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/8zFYXk2w/eo.jpg" align="center" style="max-width: 150px margin-right:25px" />  
+<!--<img src="https://i.postimg.cc/8zFYXk2w/eo.jpg" align="center" style="max-width: 150px margin-right:25px" /> -->
   
 
 ### <div align="center">I'm Vladimir, a Frontend freelance developer 👨‍💻 working remotely since 2022 🚀 Learning every day 📕</div>  
